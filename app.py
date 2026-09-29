@@ -1,3 +1,1 @@
-hello devops
-hello saisree
-am learning
+am learning python
